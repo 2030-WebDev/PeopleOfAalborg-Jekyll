@@ -55,7 +55,7 @@ body {
     height: 200px;
 }
 
-.post > p {
+p.name {
     margin: 0;
 }
 
