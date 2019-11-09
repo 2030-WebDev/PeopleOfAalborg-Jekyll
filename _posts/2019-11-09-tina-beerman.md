@@ -3,6 +3,7 @@ layout: post
 title:  "Tina Beerman"
 date:   2019-10-28 08:10:33 +0100
 categories: story
+bgimage: "../img/Tina.JPG"
 ---
 
 The standard Lorem Ipsum passage, used since the 1500s
