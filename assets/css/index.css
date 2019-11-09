@@ -26,3 +26,27 @@ body {
     color: #FFFEFE;
     text-transform: uppercase;
 }
+
+/*Article*/
+
+#latest-posts {
+    color: #000;
+    width: 90%;
+    margin: auto;
+}
+
+#latest-posts header{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.post {
+    display: inline-block;
+    width: 28%;
+    margin: 2.4%;
+}
+
+.post img {
+    width: 100%;
+    height: auto;
+}

@@ -2,16 +2,26 @@
 layout: default
 title: Stories
 ---
-<h1>Stories</h1>
+
+<article id="latest-posts">
+  <header>
+    <h1>Latest Stories</h1>
+  </header>
 {% for post in site.posts %}
 
-<article class="featured-post">
+<article class="post">
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-post-header" {% if post.bgimage %}style="background-image:url(../assets/img/{{ post.bgimage }})"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>
     </div>
   </a>
-  {{post.content | truncate: 400 }}
+  {% if post.summary %}
+    {{post.summary | truncate: 400 }}
+  {% else %}
+    {{post.content | truncate: 400 }}
+  {% endif %}
 </article>
 
+
 {% endfor %}
+</article>
