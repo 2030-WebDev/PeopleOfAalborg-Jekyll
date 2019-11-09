@@ -42,6 +42,7 @@ body {
 }
 
 .post {
+    vertical-align:top;
     display: inline-block;
     width: 28%;
     margin: 2.4%;
