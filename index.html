@@ -16,7 +16,7 @@ bgimage: "../assets/img/Header.png"
     <h1>Latest Stories</h1>
   </header>
 
-  {% for post in site.posts %}
+  {% for post in site.categories.story limit:3  %}
 
     <article class="post">
       <div class="image-name" {% if post.bgimage %}style="background-image:url(../assets/img/{{ post.bgimage }})"{% endif %}>
