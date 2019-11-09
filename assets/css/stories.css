@@ -1,0 +1,11 @@
+.featured-post {
+  width: 20%;
+
+  display: inline-block;
+}
+
+.featured-post-header {
+  background: no-repeat top center;
+  background-size: cover;
+  height: 200px;
+}

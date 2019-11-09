@@ -5,12 +5,13 @@ title: Stories
 <h1>Stories</h1>
 {% for post in site.posts %}
 
-<article>
+<article class="featured-post">
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.bgimage %}style="background-image:url(../assets/img/{{ post.bgimage }})"{% endif %}>
+    <div class="featured-post-header" {% if post.bgimage %}style="background-image:url(../assets/img/{{ post.bgimage }})"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>
     </div>
   </a>
+  {{post.content | truncate: 400 }}
 </article>
 
 {% endfor %}
