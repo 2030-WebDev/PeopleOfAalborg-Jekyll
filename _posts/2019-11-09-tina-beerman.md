@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: story
 title:  "Tina Beerman"
 date:   2019-10-28 08:10:33 +0100
 categories: story
-bgimage: "../img/Tina.JPG"
+bgimage: "Tina.JPG"
 summary: "One of the reasons, though not the first one, was the love for animals, but nowadays it’s hard to separate, because there are many more factors, even though often interrelated. I was doing yoga and went to India for four weeks. As the level of hygiene is generally lower, it was safer to eat solely vegetarian food. I did so and found out that I didn’t miss meat at all."
 ---
 
