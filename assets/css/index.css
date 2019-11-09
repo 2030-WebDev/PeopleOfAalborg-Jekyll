@@ -46,7 +46,22 @@ body {
     margin: 2.4%;
 }
 
-.post img {
-    width: 100%;
-    height: auto;
+.image-name {
+    position: relative;
+    background: no-repeat top center;
+    background-size: cover;
+    height: 200px;
+}
+
+p {
+    margin: 0;
+}
+
+.name {
+    position: absolute;
+    bottom: 0px;
+    padding: 0.5rem 2rem;
+    font-size: 14px;
+    background-color: #080A24;
+    color: #fff;
 }

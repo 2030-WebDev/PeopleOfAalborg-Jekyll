@@ -7,7 +7,9 @@ bgimage: "NatachaKristensen.png"
 summary: "In my opinion, Greenpeace is the best environmental organization there is. Our aim is to protect our planet and therefore the creatures living on it by making the future green and peaceful. We want to protect the world’s nature and preserve biodiversity. Our focus areas are climate and energy, forests, the oceans, toxic chemicals, sustainable agriculture and they are against nuclear power and weapons."
 ---
 Natacha Mia Kristensen, a volunteer and activist from Greenpeace, was born and raised in Aalborg. She is 29 years old and now studies biology at Aalborg University. She is an experienced volunteer, having started already at the beginning of 2012. She dedicates her time to Greenpeace, a global organization which has offices in 41 countries and four groups in Denmark alone.
-Can you tell us more about Greenpeace?
+
+**Can you tell us more about Greenpeace?**
+
 In my opinion, Greenpeace is the best environmental organization there is. Our aim is to protect our planet and therefore the creatures living on it by making the future green and peaceful. We want to protect the world’s nature and preserve biodiversity. Our focus areas are climate and energy, forests, the oceans, toxic chemicals, sustainable agriculture and they are against nuclear power and weapons. Greenpeace is not afraid to go from words to action in a non-violent and creative way. Moreover, we are an economical and politically independent organization.
 
 **Why Greenpeace?**
@@ -53,7 +55,11 @@ If you can share with the youth in Aalborg any message, what would it be?
 Find out what makes your heart scream for change and go fight for that.
 
 Interview conducted by: Viktoriya Dimitrova & Tereza Čechová
+
 Article written by: Tereza Čechová
+
 Edited by: Viktoriya Dimitrova
+
 Interviewee: Natacha Mia Kristensen
+
 Photography: Tereza Čechová

@@ -4,7 +4,7 @@ title:  "Tina Beerman"
 date:   2019-10-28 08:10:33 +0100
 categories: story
 bgimage: "Tina.JPG"
-summary: "One of the reasons, though not the first one, was the love for animals, but nowadays it’s hard to separate, because there are many more factors, even though often interrelated. I was doing yoga and went to India for four weeks. As the level of hygiene is generally lower, it was safer to eat solely vegetarian food. I did so and found out that I didn’t miss meat at all."
+summary: "The horror that lies behind the animal agricultural industry, is so deeply imprinted in my mind. I feel the fear so deep in my heart, that all desire for a piece of cake is completely gone. But if you serve vegan cake for me, I will dig in. There are many places we can work on. One is food and nutrition. That’s what I stand for. And it has to come from both down — the people — but also from the government’s side."
 ---
 
 Tina works as a registered dietitian — she has a master’s degree in clinical nutrition and was working at Aalborg University Hospital as a chief dietitian for ten years. Just now, she has started her own private clinic called GreenSoul, which specializes in plant-based nutrition, but is open to anyone who needs dietetic advice or treatment. But be prepared to get inspired to eat a little more plants than before. She is a vegan herself, after all.
@@ -20,7 +20,8 @@ I also started discovering more and more about how the animals are treated, and 
 ‘No, I must see it — I have to really know it in my heart’
 And since then I knew I was becoming a vegan and I knew exactly why. It just took me an additional few months because I knew I had to be very secure about my nutrition. I didn’t eat meat at that time, but still had eggs and milk and fish. Only after a few months, I could say I was a vegan. It is such a strong drive and I can honestly say I never feel tempted to eat something that is not vegan. It’s just not an option for me. The horror that lies behind the animal agricultural industry, is so deeply imprinted in my mind. I feel the fear so deep in my heart, that all desire for a piece of cake is completely gone. But if you serve vegan cake for me, I will dig in.
 
-How did your family and friends react to this change?
+**How did your family and friends react to this change?**
+
 I know some people have struggled with it, as they’ve been arguing with their families and friends and had no understanding. About me… People were just being curious, which is maybe because I have a background in nutrition studies. People know I’m skilled in nutrition, I really am, not to brag, but it is my profession. So, they knew I would be sure about my diet. And I guess that’s why they’ve just been curious. They were asking about more specific motivation.
 
 I grew up in the countryside. My parents had a little farm. They were not living off it, but we had some animals: cows, pigs and cats. And of course, they took some of these animals and slaughtered them and we ate them. I knew that and I didn’t like it, but still, I had it for dinner and I had my plenty share of roasts and meatballs. I had my own little male calf as a pet, after all. When he grew too big, he met the same fate...
@@ -38,7 +39,8 @@ I don’t think it’s natural to take the calf from its mother and then feed it
 
 Many people don’t think about why we get dairy. They don’t think about why the female cow always gives milk. It’s because she’s always pregnant having a calf which is immediately taken away from her. That’s the only way she can keep producing high amounts of milk every day. I think many people still have the romantic idea of how the milk is produced at a little farm, but that’s not the way it is. And that’s what that movie Earthlings showed me and that animals have deep emotions.
 
-What about the sustainability factor of veganism?
+**What about the sustainability factor of veganism?**
+
 During the last years, there have been many debated about the environmental question, and you can see that the way we get animal products also builds up in it. It’s all related.
 
 Some people ask me why I don’t care about starving kids in Africa. But that’s also caring exactly for these starving children because we can’t feed the humanity on this planet the way we’re eating today. It’s not sustainable in any way. We need to cut down meat very drastically. And from my knowledge as a nutritionist, I know we don’t need meat in a diet. It’s a myth. So that’s also caring for these starving people everywhere in the world because we could have so much more food if we didn’t have this huge animal agricultural industry we have today.
@@ -90,7 +92,11 @@ I think you are amazing. I think the youth today you have so much knowledge and 
 You own the future and it must come from you because apparently, my generation is not stepping up. I’m glad you are.
 
 Interview conducted by: Viktoriya Dimitrova
+
 Article written by: Tereza Čechová
+
 Edited by: Viktoriya Dimitrova
+
 Interviewee: Tina Beermann
+
 Photography: Hilda Bakhshi

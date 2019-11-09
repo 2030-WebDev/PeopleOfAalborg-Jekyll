@@ -47,7 +47,11 @@ Lastly, if you could describe your stay in Aalborg in 3 words, what would they b
 Meeting heartful people.
 
 Interview conducted by: Viktoriya Dimitrova
+
 Article written by: Viktoriya Dimitrova
+
 Edited by: Tereza Čechová & Joelle Böttcher
+
 Interviewee: Ayaho Katata
+
 Photography: Ayaho Katata

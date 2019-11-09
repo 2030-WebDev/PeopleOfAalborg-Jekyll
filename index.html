@@ -4,9 +4,36 @@ title: Home
 bgimage: "../assets/img/Header.png"
 ---
 <main>
+
   <div id="header-section" style="background-image: url({{ page.bgimage }})">
     <div id="header">
       <h1>People of Aalborg</h1>
     </div>
   </div>
+
+<article id="latest-posts">
+  <header>
+    <h1>Latest Stories</h1>
+  </header>
+
+  {% for post in site.posts %}
+
+    <article class="post">
+      <div class="image-name" {% if post.bgimage %}style="background-image:url(../assets/img/{{ post.bgimage }})"{% endif %}>
+        <p class="name">{{ post.title }}</p>
+      </div>
+      <p class="quote">
+        {% if post.summary %}
+          {{post.summary | truncate: 400 }}
+        {% else %}
+          {{post.content | truncate: 400 }}
+        {% endif %}
+      </p>
+      <a href="{{ site.github.url }}{{ post.url }}"><button>Read...</button></a>
+    </article>
+
+  {% endfor %}
+
+</article>
+
 </main>
