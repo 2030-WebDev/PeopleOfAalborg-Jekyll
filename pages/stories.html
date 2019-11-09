@@ -10,7 +10,10 @@ title: Stories
 {% for post in site.categories.story %}
 
 <article class="post">
-  <div class="image-name" {% if post.bgimage %}style="background-image:url(../assets/img/{{ post.bgimage }})"{% endif %}>
+  <div class="image-name"
+  {% if post.bgimage %}
+  style="background-image:url({{ site.github.url }}/assets/img/{{ post.bgimage }})"
+  {% endif %}>
     <p class="name">{{ post.title }}</p>
   </div>
   <p class="quote">

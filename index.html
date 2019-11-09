@@ -5,7 +5,7 @@ bgimage: "../assets/img/Header.png"
 ---
 <main>
 
-  <div id="header-section" style="background-image: url({{ page.bgimage }})">
+  <div id="header-section" style="background-image: url({{ site.github.url }}/assets/img/{{ page.bgimage }})">
     <div id="header">
       <h1>People of Aalborg</h1>
     </div>
@@ -19,7 +19,7 @@ bgimage: "../assets/img/Header.png"
   {% for post in site.categories.story limit:3  %}
 
     <article class="post">
-      <div class="image-name" {% if post.bgimage %}style="background-image:url(../assets/img/{{ post.bgimage }})"{% endif %}>
+      <div class="image-name" {% if post.bgimage %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.bgimage }})"{% endif %}>
         <p class="name">{{ post.title }}</p>
       </div>
       <p class="quote">
