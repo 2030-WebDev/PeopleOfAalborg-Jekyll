@@ -1,0 +1,14 @@
+<div class="footer">
+		<span class="footer_text">&#169; 2019 &nbsp;&nbsp;People of Aalborg</span>
+		<nav class="footer_nav">
+			<ul class="footer_social">
+				{% for item in site.data.settings.social %}
+				<li class="footer_social_item">
+					<a href="{{item.link}}" class="social_link {{item.short}}" title="Join us on {{item.name}}" target="_blank">
+						<i class="fa fa-{{item.icon}}" aria-hidden="true"></i>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</nav>
+</div>

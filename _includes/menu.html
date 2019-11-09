@@ -1,0 +1,12 @@
+<div class="menu">
+		<span class="menu_title">People of Aalborg</span>
+		<nav class="menu_nav">
+			<ul class="menu_list">
+				{% for item in site.data.settings.menu %}
+					<li class="menu_list_item">
+						<a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu_link">{{ item.name }}</a>
+					</li>
+				{% endfor %}
+			</ul>
+		</nav>
+</div>
