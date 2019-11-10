@@ -1,23 +1,24 @@
 ---
 layout: story
 title:  "Tina Beerman"
-date:   2019-10-28 08:10:33 +0100
+date:   2019-03-21 08:10:33 +0100
 categories: story
 bgimage: "Tina.JPG"
 summary: "The horror that lies behind the animal agricultural industry, is so deeply imprinted in my mind. I feel the fear so deep in my heart, that all desire for a piece of cake is completely gone. But if you serve vegan cake for me, I will dig in. There are many places we can work on. One is food and nutrition. That’s what I stand for. And it has to come from both down — the people — but also from the government’s side."
 ---
 
-Tina works as a registered dietitian — she has a master’s degree in clinical nutrition and was working at Aalborg University Hospital as a chief dietitian for ten years. Just now, she has started her own private clinic called GreenSoul, which specializes in plant-based nutrition, but is open to anyone who needs dietetic advice or treatment. But be prepared to get inspired to eat a little more plants than before. She is a vegan herself, after all.
+Tina works as a registered dietitian — she has a master’s degree in clinical nutrition and was working at Aalborg University Hospital as a chief dietitian for ten years. Just now, she has started her own private clinic called [GreenSoul](https://greensoul.dk/), which specializes in plant-based nutrition, but is open to anyone who needs dietetic advice or treatment. But be prepared to get inspired to eat a little more plants than before. She is a vegan herself, after all.
 
 Amongst her chief interests is also sustainability, as she was participating with a vegan food stall in the local festival in 2015 and 2016.
 
 **What is your personal motivation for becoming vegan? Was it out of love for the environment or animals?**
 
 One of the reasons, though not the first one, was the love for animals, but nowadays it’s hard to separate, because there are many more factors, even though often interrelated. I was doing yoga and went to India for four weeks. As the level of hygiene is generally lower, it was safer to eat solely vegetarian food. I did so and found out that I didn’t miss meat at all. When I came back, I started discovering more and more recipes and ways to live as a vegetarian. In my work, I’ve been helping people with all kinds of allergies and intolerances and advised them about cooking without milk and eggs, but I’d never really tried it myself before.
-I also started discovering more and more about how the animals are treated, and that it’s basically a form of slavery. I saw a movie called ‘Earthlings’. That was really the one that moved me a lot, I cried and my husband was sitting in the room next to me asked me: ‘What are you watching?’
-‘I’m watching a horror movie’.
-‘Turn it off then’.
-‘No, I must see it — I have to really know it in my heart’
+
+I also started discovering more and more about how the animals are treated, and that it’s basically a form of slavery. I saw a movie called ‘Earthlings’. That was really the one that moved me a lot, I cried and my husband was sitting in the room next to me asked me: *‘What are you watching?’*
+*‘I’m watching a horror movie’.*
+*‘Turn it off then’.*
+*‘No, I must see it — I have to really know it in my heart’*
 And since then I knew I was becoming a vegan and I knew exactly why. It just took me an additional few months because I knew I had to be very secure about my nutrition. I didn’t eat meat at that time, but still had eggs and milk and fish. Only after a few months, I could say I was a vegan. It is such a strong drive and I can honestly say I never feel tempted to eat something that is not vegan. It’s just not an option for me. The horror that lies behind the animal agricultural industry, is so deeply imprinted in my mind. I feel the fear so deep in my heart, that all desire for a piece of cake is completely gone. But if you serve vegan cake for me, I will dig in.
 
 **How did your family and friends react to this change?**
@@ -27,6 +28,7 @@ I know some people have struggled with it, as they’ve been arguing with their 
 I grew up in the countryside. My parents had a little farm. They were not living off it, but we had some animals: cows, pigs and cats. And of course, they took some of these animals and slaughtered them and we ate them. I knew that and I didn’t like it, but still, I had it for dinner and I had my plenty share of roasts and meatballs. I had my own little male calf as a pet, after all. When he grew too big, he met the same fate...
 
 I still have family members who have big dairy farms and live from that. They’re my close relatives and, of course, I love them, because they’re good people. And I know some are, maybe, not going completely vegan, but definitely, I see friends and relatives cut down on the meat and dairy. We all have to discover it our ways, it’s a shift of paradigm.
+
 As a child, you’re raised in the countryside and you are being taught that that is just the way the world is. The American social psychologist Melanie Joy describes how it is a cultural belief that meat is natural, normal and necessary. That we have animals to feed ourselves. We all, or most of us, learn that it’s the natural process. And soon we forget because the food tastes good.
 
 **Did you personally have problems with the taste itself?**
@@ -63,9 +65,9 @@ People need to see what I’m cutting out but also what I’m choosing instead. 
 
 **What are the best things that you could eat?**
 
-Plant-based wholefood. And vegetables, it must be a huge part of the diet. And to say it the simplest way — eat the rainbow. Have some green vegetables, have some red and yellow vegetables, have some purple things. Just eat a variety of these. Try to think of that every day. Have some full wholegrain bread. And some seeds. Like linseeds, sesame seeds — it’s fantastic for calcium and they’re highly nutritious both in protein and in all kinds of minerals. Have some nuts, because they’re also very highly nutritious, have healthy fats and proteins and lots of minerals and fibres. Not to forget some berries, like blueberries and strawberries and have some fruits.
+Plant-based wholefood. And vegetables, it must be a huge part of the diet. And to say it the simplest way — eat the rainbow. Have some green vegetables, have some red and yellow vegetables, have some purple things. Just eat a variety of these. Try to think of that every day. Have some full wholegrain bread. And some seeds. Like linseeds, sesame seeds — it’s fantastic for calcium and they’re highly nutritious both in protein and in all kinds of minerals. Have some nuts, because they’re also very highly nutritious, have healthy fats and proteins and lots of minerals and fiber. Not to forget some berries, like blueberries and strawberries and have some fruits.
 
-One of the most important food that people are not used to eating in Denmark — that’s beans and lentils. Like dry beans, because they’re high in protein and again, fibre. They are very nutritious and have very high levels of iron, calcium and zinc that you usually get from meat or dairy.
+One of the most important food that people are not used to eating in Denmark — that’s beans and lentils. Like dry beans, because they’re high in protein and again, fiber. They are very nutritious and have very high levels of iron, calcium and zinc that you usually get from meat or dairy.
 
 **Why are people not implementing beans more into their diet?**
 
