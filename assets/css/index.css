@@ -46,6 +46,11 @@ body {
     display: inline-block;
     width: 28%;
     margin: 2.4%;
+    box-shadow: 7px 7px 10px -3px rgba(0,0,0,0.3);
+}
+
+.post:hover {
+    box-shadow: none;
 }
 
 .image-name {
