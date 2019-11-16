@@ -1,0 +1,52 @@
+
+#person_header{
+   position: relative;
+   height: 700px;
+   background: no-repeat top center;
+   /* background-image: url(../images/Tina_resized.jpg); */
+   background-size: cover;
+   width:100%;
+   display: table;
+}
+#quote {
+    font-size: 25px;
+    color: white;
+    width: 45%;
+    line-height: 30px;
+    height: 100%;
+    padding-left: 7%;
+}
+
+#quote > p {
+  font-style: italic;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+
+#person_header #quote {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#name {
+
+   font-size: 20px;
+   background-color: rgb(0, 0, 70);
+   color: white;
+   padding: 15px;
+   padding-left: 25px;
+   padding-right: 25px;
+   margin: 0;
+   text-align: center;
+   border: 1px groove white;
+   position: absolute;
+   bottom: 0;
+   right: 0;
+}
+
+@media (max-width: 900px) {
+  #quote {
+    width: 100%;
+    padding: 7%;
+  }
+}
