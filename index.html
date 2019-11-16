@@ -23,21 +23,23 @@ bgimage: "Header.png"
       <div class="image-name" {% if post.bgimage %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.bgimage }})"{% endif %}>
         <p class="name">{{ post.title }}</p>
       </div>
-      <p class="quote">
-        {% if post.summary %}
-          {{post.summary | truncate: 400 }}
-        {% else %}
-          {{post.content | truncate: 400 }}
-        {% endif %}
-      </p>
-      <a href="{{ site.github.url }}{{ post.url }}">
-        <button class="buttons">Read...</button>
-      </a>
+      <div class="quoteSection">
+        <p class="quote">
+          {% if post.summary %}
+            {{post.summary | truncate: 400 }}
+          {% else %}
+            {{post.content | truncate: 400 }}
+          {% endif %}
+        </p>
+        <a href="{{ site.github.url }}{{ post.url }}">
+          <button class="buttons">Read...</button>
+        </a>
+      </div>
     </article>
     </a>
 
   {% endfor %}
-<button class="buttons" id="viewMoreBtn">View More...</button>
+<a href="{{ site.github.url }}/pages/stories.html"><button class="buttons" id="viewMoreBtn">View More...</button></a>
 </article>
 
 
