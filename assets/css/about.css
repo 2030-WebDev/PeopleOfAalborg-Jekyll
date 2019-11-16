@@ -9,18 +9,26 @@
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.7);
-  clip-path: polygon(12% 0%, 100% 0, 100% 100%, 65% 100%);
 }
 
 .about-text {
-  float: right;
-  width: 47%;
   color: white;
   font-size: 2em;
-  padding-right: 8%;
+  padding: 8%;
 }
 
 .about-text > p {
   text-align: right;
   line-height: 1.3em;
+}
+
+@media (min-width: 900px) {
+  .dimmed {
+    clip-path: polygon(12% 0%, 100% 0, 100% 100%, 65% 100%);
+  }
+  .about-text {
+    float: right;
+    width: 47%;
+    padding-right: 8%;
+  }
 }

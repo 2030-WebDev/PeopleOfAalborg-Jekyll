@@ -18,6 +18,7 @@ bgimage: "Header.png"
 
   {% for post in site.categories.story limit:3  %}
 
+    <a href="{{ site.github.url }}{{ post.url }}">
     <article class="post">
       <div class="image-name" {% if post.bgimage %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.bgimage }})"{% endif %}>
         <p class="name">{{ post.title }}</p>
@@ -31,6 +32,7 @@ bgimage: "Header.png"
       </p>
       <a href="{{ site.github.url }}{{ post.url }}"><button>Read...</button></a>
     </article>
+    </a>
 
   {% endfor %}
 

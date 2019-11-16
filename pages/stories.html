@@ -9,6 +9,7 @@ title: Stories
   </header>
 {% for post in site.categories.story %}
 
+<a href="{{ site.github.url }}{{ post.url }}">
 <article class="post">
   <div class="image-name"
   {% if post.bgimage %}
@@ -25,6 +26,7 @@ title: Stories
   </p>
   <a href="{{ site.github.url }}{{ post.url }}"><button>Read...</button></a>
 </article>
+</a>
 
 
 {% endfor %}

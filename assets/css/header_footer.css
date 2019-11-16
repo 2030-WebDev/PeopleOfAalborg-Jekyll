@@ -146,4 +146,22 @@ body {
   .menu_nav {
     float: none;
   }
+
+  .footer_nav {
+    display: block;
+    float: none;
+  }
+
+  .footer {
+  	height: 200px;
+  	width: 100%;
+  	background-color: #080A24;
+  	opacity: 1;
+  	padding: 0;
+    text-align: center;
+  }
+  .footer_social_item {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
 }
