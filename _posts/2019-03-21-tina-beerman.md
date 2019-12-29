@@ -93,12 +93,15 @@ I think you are amazing. I think the youth today you have so much knowledge and 
 
 You own the future and it must come from you because apparently, my generation is not stepping up. I’m glad you are.
 
-Interview conducted by: Viktoriya Dimitrova
 
-Article written by: Tereza Čechová
+____________
 
-Edited by: Viktoriya Dimitrova
+**Interviews conducted by:** Viktoriya Dimitrova
 
-Interviewee: Tina Beermann
+**Article written by:** Tereza Čechová
 
-Photography: Hilda Bakhshi
+**Edited by:** Viktoriya Dimitrova
+
+**Interviewee:** Tina Beermann
+
+**Photography:** Hilda Bakhshi

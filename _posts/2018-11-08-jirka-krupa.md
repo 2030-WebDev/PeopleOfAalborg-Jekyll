@@ -19,7 +19,9 @@ The idea was a combination of several factors. The first was that we couldn’t 
 **We noticed in your post that you’re trying to be more sustainable and zero waste. What initiated this idea?**
 
 Well, it will never be completely zero waste, because that’s very hard. It’s more about packaging in this case. There’s so much wasting, especially here in Denmark. You go shopping and see a single orange packed in a piece of plastic with a Styrofoam plate. That’s terrible.
+
 We buy a lot of parts and you can notice that the more you buy, the better the packaging is. If you buy a big package, it comes in a big cardboard box and it’s loosely packed. My idea is not to have zero waste, but at least have less packaging on products. At first, we were renovating old bikes and we didn’t have the money to invest in the new equipment, so we tried to repair everything that was possible, even the oldest parts.
+
 And there we learned that a lot of the things that other shops just replace the part are possible to fix quite easily. And it’s connected a lot with not having the money. You’ve probably seen our last post with the tool holders. That’s a nice example because we don’t really have the money to buy big professional tool holder. So, we just see what is around and use that, if we can — like we used some old bikes for our sign.
 
 **Would you say that being sustainable is manageable; for example for more bike shops?**
@@ -41,18 +43,21 @@ Right now, we’re making an online shop for used bikes. The second thing that w
 **What we do is interview people who are making a difference in Aalborg. For example, what you’re doing is sustainable — you repair old bikes. You have student-friendly prices as well, so you make the option to buy from you available to more people.**
 
 The sad thing is that something is not worth repairing, because the time you’ll spend doing it would cost more than a new part. But we try to encourage people by setting lower prices, which of course means that the employees are not paid as much as in other shops. By having lower prices, we try to make the people spend more, however. If a flat tire replaced in a Danish shop costs 400 DKK, then at our place it costs 250 and we can also fix the chain for an additional 150. So, for 400 kroner, you would now get two things instead of one. You get a better service and we get more work — and both sides are happy.
+
 The zero waste is hard to do because there’re many parts on the bikes which are wearing out, like tires, brake pads, and chains. They’re made to be replaced at some point. We already stopped using parts that are getting broken fast. Of course, not everyone is willing to pay a lot for high-quality parts. But at least we’re not selling complete crap which needs to be replaced soon.
 
 **If you can carry out a message to the youth of Aalborg, what would that be?**
 
 Think about what you’re buying and why. In terms of bikes, check what’s the bike like, if it has any failures, how long it’s going to last. Think before you buy a new one because there’re many used bikes that are cheaper and will work just as fine or in many cases even better.
 
-Interview conducted by: Viktoriya Dimitrova & Marie-Louise Dalgaard Sørensen
+____________
 
-Article written by: Tereza Čechová
+**Interviews conducted by:** Viktoriya Dimitrova & Marie-Louise Dalgaard Sørensen
 
-Edited by: Věra Dvořáková & Viktoriya Dimitrova
+**Article written by:** Tereza Čechová
 
-Interviewee: Jirka Krupa, owner of FlexiFix bike shop & repair
+**Edited by:** Věra Dvořáková & Viktoriya Dimitrova
 
-Photography: Ayaho Katata
+**Interviewee:** Jirka Krupa, owner of FlexiFix bike shop & repair
+
+**Photography:** Ayaho Katata

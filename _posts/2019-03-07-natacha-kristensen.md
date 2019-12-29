@@ -51,15 +51,20 @@ At the beginning of April, we are co-hosting on a plogging event here in Aalborg
 **From all the events that you’ve had so far, do you have a favourite?**
 
 I always find it hard to pick out an event as a favourite. It’s really hard to say it because they eventually end up being great in different ways. You always learn a lot and meet a lot of different people. I have to say I just love to be out there making a difference and fighting for what I love — the magnificent and fragile nature.
-If you can share with the youth in Aalborg any message, what would it be?
+
+**If you can share with the youth in Aalborg any message, what would it be?**
+
 Find out what makes your heart scream for change and go fight for that.
 
-Interview conducted by: Viktoriya Dimitrova & Tereza Čechová
 
-Article written by: Tereza Čechová
+____________
 
-Edited by: Viktoriya Dimitrova
+**Interviews conducted by:** Viktoriya Dimitrova & Tereza Čechová
 
-Interviewee: Natacha Mia Kristensen
+**Article written by:** Tereza Čechová
 
-Photography: Tereza Čechová
+**Edited by:** Viktoriya Dimitrova
+
+**Interviewee:** Natacha Mia Kristensen
+
+**Photography:** Tereza Čechová

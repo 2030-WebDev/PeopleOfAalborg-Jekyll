@@ -55,16 +55,19 @@ I like to bike everywhere, and I take the train when I go home. I don’t take t
 **Our concluding question for you: Do you have any message to the youth in Aalborg?**
 
 Be kind. Be open-minded towards new things. Don’t think that you know it all or that you found the right answer already. I found veganism, but I know that there are still so many things I don’t know about it. Coconuts, for example — sometimes monkeys are being used to harvest them, which means that coconuts aren’t vegan. There are so many things I haven’t yet started thinking about.
+
 I think open-mindedness, in general, is very much missing in our world. I get it, it’s hard to change your mind because it’s comfortable to get set in something. But you know, you can always improve.
 
 Basically, I think we should all aspire to do less harm in general, to the world, to other people, to our communities.
 
-Interview conducted by: Viktoriya Dimitrova
+____________
 
-Article written by: Tereza Čechová
+**Interviews conducted by:** Viktoriya Dimitrova
 
-Edited by: Věra Dvořáková & Viktoriya Dimitrova
+**Article written by:** Tereza Čechová
 
-Interviewee: Viola Grundmann of Dyrenes Alliance
+**Edited by:** Věra Dvořáková & Viktoriya Dimitrova
 
-Photography: Tereza Čechová
+**Interviewee:** Viola Grundmann of Dyrenes Alliance
+
+**Photography:** Tereza Čechová

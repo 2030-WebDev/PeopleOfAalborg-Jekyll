@@ -8,7 +8,8 @@ summary: "My job is to establish partnerships with citizens, NGOs and housing as
 ---
 Years ago, Zacharias spent some time in Aalborg as a student. A former Greenpeace activist — that’s how he got involved in environmental climate agenda — and worker in local NGO in Albertslund, he later returned to Aalborg and has now lived here for four years as a Green Agent for the Aalborg Kommune.
 
-What is the most inspiring citizen-driven initiative aimed at furthering the green agenda that you have come across so far?
+**What is the most inspiring citizen-driven initiative aimed at furthering the green agenda that you have come across so far?**
+
 We have set up a project where you can borrow an electric bike and then bike to Aalborg instead of going by car. I think the woman behind it is very inspiring, and she does a lot for her community.
 
 **Why is sustainability important to you?**
@@ -24,6 +25,7 @@ I try to give my kids better habits than those I grew up with. I try to teach th
 **Is that something you’d like to change long term?**
 
 We can’t expect people to change their behaviour and their whole lifestyle from one day to another. It must make sense for the individual and we are all different. It must be small steps in the right direction. Every small step is a good thing. And I don’t see myself as a saint, I am not doing all the things in the right way. But again, some things are very difficult.
+
 On the other hand, I stopped flying. Mostly. I like to spend my holidays in Denmark and Sweden, in places where I can go by train or car. But… I think it’s more important to ask yourself whether this experience at a distant place only reachable by flying? Going to the beach: I feel I can do that in Denmark and in Spain at the same quality, no matter where I go. But again, we all have things that we dream of seeing, and then we can make an exception.
 
 **Do you see Aalborg as a sustainable city?**
@@ -52,12 +54,15 @@ We have an ambition that it should be easy to make the green choice in Aalborg a
 
 Be engaged in the city and grab all the opportunities… share and use your knowledge to create a greener and more sustainable city.
 
-Interview conducted by: Viktoriya Dimitrova
 
-Article written by: Tereza Čechová
+____________
 
-Edited by: Viktoriya Dimitrova
+**Interviews conducted by:** Viktoriya Dimitrova
 
-Interviewee: Zacharias B. Madsen
+**Article written by:** Tereza Čechová
 
-Photography: Hilda Bakhshi
+**Edited by:** Viktoriya Dimitrova
+
+**Interviewee:** Zacharias B. Madsen
+
+**Photography:** Hilda Bakhshi

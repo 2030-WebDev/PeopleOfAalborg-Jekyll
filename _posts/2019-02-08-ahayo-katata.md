@@ -43,15 +43,20 @@ I felt like there were fewer opportunities to interact with other classmates bec
 **What advice would you give to anyone new coming to study in Aalborg?**
 
 Join many things actively. Anything is fine, such as volunteering or going to have a beer. Since Aalborg University provides only about two months on-campus class schedule for each semester so going out by joining something is the key to meet new people in Aalborg. There are many sweet people in Aalborg, so don’t be in your room all the time, and try something out.
-Lastly, if you could describe your stay in Aalborg in 3 words, what would they be?
+
+**Lastly, if you could describe your stay in Aalborg in 3 words, what would they be?**
+
 Meeting heartful people.
 
-Interview conducted by: Viktoriya Dimitrova
 
-Article written by: Viktoriya Dimitrova
+____________
 
-Edited by: Tereza Čechová & Joelle Böttcher
+**Interviews conducted by:** Viktoriya Dimitrova
 
-Interviewee: Ayaho Katata
+**Article written by:** Viktoriya Dimitrova
 
-Photography: Ayaho Katata
+**Edited by:** Tereza Čechová & Joelle Böttcher
+
+**Interviewee:** Ayaho Katata
+
+**Photography:** Ayaho Katata

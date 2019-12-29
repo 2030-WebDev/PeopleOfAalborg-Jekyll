@@ -70,12 +70,14 @@ When you meet people who are learning Danish, you should let them try to speak i
 
 *The opening hours to the free voluntary help you can get in Danish can be found on the Sprogcenter’s homepage [here](https://sprogcenter.aalborg.dk/studiemiljoe).*
 
-Interview conducted by: Viktoriya Dimitrova & Tereza Čechová
+____________
 
-Article written by: Tereza Čechová
+**Interviews conducted by:** Viktoriya Dimitrova & Tereza Čechová
 
-Edited by: Marie-Louise Dalgaard Sørensen & Viktoriya Dimitrova
+**Article written by:** Tereza Čechová
 
-Interviewee: Hannah Cruz del Rio, a volunteer at Sprogcenter Aalborg
+**Edited by:** Marie-Louise Dalgaard Sørensen & Viktoriya Dimitrova
 
-Photography: Ayaho Katata
+**Interviewee:** Hannah Cruz del Rio, a volunteer at Sprogcenter Aalborg
+
+**Photography:** Ayaho Katata

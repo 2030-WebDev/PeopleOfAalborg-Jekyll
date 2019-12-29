@@ -16,7 +16,8 @@ I’ve always liked working with organizations ever since I started my career at
 
 **Can you tell us more about what you do here in Aalborg?**
 
-Our primary task is to be of service to students, which means that we do counselling sessions for both people from Aalborg University and UCN. The main part of our work is to be available to students in form of private talks and counselling sessions. The students come to us with all kinds of concerns. It can be related to their studies, pressure or difficulty dealing with the issues and choices related to the studies, like: “Am I in the right place or should I transfer to another subject or another school?”
+Our primary task is to be of service to students, which means that we do counselling sessions for both people from Aalborg University and UCN. The main part of our work is to be available to students in form of private talks and counselling sessions. The students come to us with all kinds of concerns. It can be related to their studies, pressure or difficulty dealing with the issues and choices related to the studies, like: *“Am I in the right place or should I transfer to another subject or another school?”*
+
 These kinds of concerns can be quite overwhelming. Maybe you’ve seen our motto, which is that “learning seriously affects your being.” That’s true in the sense that whenever you embark on new things or topics like students do every day, it will always almost automatically affect you. And when the things don’t go as planned, it can be a relief to talk to somebody who is maybe not exactly your teacher or mentor, but still a part of the university setting.
 
 **What kind of problems do the students usually come with?**
@@ -67,12 +68,15 @@ Links to their webpage and Facebook page:
 - [www.chaplains.aau.dk](www.chaplains.aau.dk)
 - [www.facebook.com/studenterpraesterne](www.facebook.com/studenterpraesterne)
 
-Interview conducted by: Viktoriya Dimitrova & Tereza Čechová
 
-Article written by: Tereza Čechová
+____________
 
-Edited by: Marie-Louise Dalgaard Sørensen & Viktoriya Dimitrova
+**Interviews conducted by:** Viktoriya Dimitrova & Tereza Čechová
 
-Interviewee: Nanna Holm
+**Article written by:** Tereza Čechová
 
-Photography: Tereza Čechová
+**Edited by:** Marie-Louise Dalgaard Sørensen & Viktoriya Dimitrova
+
+**Interviewee:** Nanna Holm
+
+**Photography:** Tereza Čechová

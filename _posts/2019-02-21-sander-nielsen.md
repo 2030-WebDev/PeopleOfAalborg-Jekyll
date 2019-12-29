@@ -43,14 +43,17 @@ I’d say yes. The international community is getting bigger and bigger. It’s 
 **If you can share any message with youth in Aalborg, what would it be?**
 
 I would advise internationals and refugees to not be scared of changes, because there are a lot of different people in Denmark and you can always find people that are just like you and you will blend in, no matter what you believe in or not. It doesn’t mean you need to know the language completely. Just a small thing like being able to introduce yourself can have a huge impact. It shows that you are really trying to blend in, and that’s what Danish people appreciate.
+
 Elsk opening hours: Every Tuesday and Thursday 14.00–18.00
 
-Interview conducted by: Viktoriya Dimitrova & Tereza Čechová
+____________
 
-Article written by: Tereza Čechová
+**Interviews conducted by:** Viktoriya Dimitrova & Tereza Čechová
 
-Edited by: Viktoriya Dimitrova
+**Article written by:** Tereza Čechová
 
-Interviewee: Sander Kielgaard Nielsen
+**Edited by:** Viktoriya Dimitrova
 
-Photography: Sander Kielgaard Nielsen
+**Interviewee:** Sander Kielgaard Nielsen
+
+**Photography:** Sander Kielgaard Nielsen
