@@ -26,9 +26,9 @@ bgimage: "Header.png"
       <div class="quoteSection">
         <p class="quote">
           {% if post.summary %}
-            {{post.summary | truncate: 400 }}
+            {{post.summary | truncate: 245 }}
           {% else %}
-            {{post.content | truncate: 400 }}
+            {{post.content | truncate: 245 }}
           {% endif %}
         </p>
         <a href="{{ site.github.url }}{{ post.url }}">

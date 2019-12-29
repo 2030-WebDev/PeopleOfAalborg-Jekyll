@@ -18,9 +18,9 @@ title: Stories
   <div class="quoteSection">
     <p class="quote">
       {% if post.summary %}
-        {{post.summary | truncate: 400 }}
+        {{post.summary | truncate: 300 }}
       {% else %}
-        {{post.content | truncate: 400 }}
+        {{post.content | truncate: 300 }}
       {% endif %}
     </p>
     <a href="{{ site.github.url }}{{ post.url }}">
