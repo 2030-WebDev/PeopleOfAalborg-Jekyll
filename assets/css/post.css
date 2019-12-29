@@ -1,9 +1,17 @@
+#header-section.story {
+    width:100%;
+    height:700px;
+    background: no-repeat top center;
+    background-size: cover;
+    position: relative;
+    display: table;
+}
 
 #person_header{
    position: relative;
    height: 700px;
    background: no-repeat top center;
-   /* background-image: url(../images/Tina_resized.jpg); */
+   background-image: url(../images/Tina_resized.jpg);
    background-size: cover;
    width:100%;
    display: table;
@@ -54,8 +62,42 @@
 }
 
 @media (max-width: 900px) {
-  #quote {
+  #person_header #quote {
     width: 100%;
     padding: 7%;
+    display: none;
+  }
+
+  #story_main{
+    padding: 11%;
+    padding-top: 1%;
+    padding-bottom: 6%;
+    font-size: 16px;
+    line-height: 25px;
+  }
+}
+
+@media (max-width: 850px) {
+  #person_header {
+    height: 200px;
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  #name {
+    font-size: 16px;
+    padding: 5px;
+  }
+
+  #story_main{
+    padding: 11%;
+    padding-top: 1%;
+    padding-bottom: 6%;
+    font-size: 14px;
+    line-height: 25px;
+  }
+
+  #header-section.story {
+    height:200px;
   }
 }
