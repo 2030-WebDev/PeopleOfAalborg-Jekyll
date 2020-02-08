@@ -3,6 +3,10 @@ body {
     margin: 0;
 }
 
+main {
+    text-align: center;
+}
+
 button {
     cursor: pointer;
 }
@@ -43,6 +47,7 @@ button {
 #latest-posts header{
     text-transform: uppercase;
     text-align: center;
+    font-size: 2em; 
 }
 
 .post {
@@ -125,4 +130,9 @@ p.name {
     header h1 {
         font-size: 30px;
     }
+
+
+   #viewMoreBtn {
+       margin-top: 0.9em;
+   }
 }
