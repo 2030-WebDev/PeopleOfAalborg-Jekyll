@@ -1,5 +1,6 @@
 <div class="menu">
 		<span class="menu_title"><a href="{{ site.github.url }}/index.html">People of Aalborg</a></span>
+		<img src="assets/img/dropdown.png" alt="menu" id="menu_btn">
 		<nav class="menu_nav">
 			<ul class="menu_list">
 				{% for item in site.data.settings.menu %}
@@ -9,4 +10,5 @@
 				{% endfor %}
 			</ul>
 		</nav>
+		<div id="empty" style="height: 10px;"></div>
 </div>
